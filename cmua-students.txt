@@ -1,4 +1,11 @@
 dalanmiller
+<<<<<<< HEAD
+nakulganiki`dotra
+PaulPido
+kdsj
+helloeljlllrlkjl
+uyeahlalala
+=======
 ZiweiShi
 Tania Dasgupta
 yanliu
@@ -9,8 +16,7 @@ nakulgandotra
 PaulPidou
 yanliu
 nakulgandotra
-PaulPidou
-iviteri
+PaulPidouiviteri
 nakulgandotra
 hanweishao
 PaulPidou
@@ -21,4 +27,5 @@ RichardTiu
 vivek
 AakritiBhargava
 sharingangt
+ShirleyYang
 Sara Cheng
