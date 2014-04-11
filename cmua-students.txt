@@ -1,6 +1,34 @@
 dalanmiller
+<<<<<<< HEAD
 nakulganiki`dotra
 PaulPido
 kdsj
 helloeljlllrlkjl
 uyeahlalala
+=======
+ZiweiShi
+Tania Dasgupta
+yanliu
+nakulgandotra
+PaulPidou
+RebeccaHou
+nakulgandotra
+PaulPidou
+yanliu
+nakulgandotra
+PaulPidou
+iviteri
+yanliu
+nakulgandotra
+hanweishao
+PaulPidou
+vivek
+vivek
+
+AdityaPadhye
+RichardTiu
+vivek
+AakritiBhargava
+sharingangt
+>>>>>>> e6j3da4b1fccf8bb383645f1b17015b4b5d5718a
+ShirleyYang
