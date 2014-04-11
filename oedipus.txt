@@ -9,6 +9,12 @@ Mijn arme, árme kind'ren! wèl
     zijn vol van zijnen adem, en mijn tong
     smaakt slechts uw leed. Daarom hebt ge me⁀ook niet
     uit sluimerrust gewekt. Ik waakte, en zat,
+<<<<<<< HEAD
+    deed ik niet alles wat de God beveelt.
+    En dit is niet d' eerste dag, die zóó mij groet.
+    en weende,—weende⁀om de stad, om u—om mij.
+    Ha ha ha aha.
+=======
 
     deed ik niet alles wat de God beveelt.
     En dit is niet d' eerste dag, die zóó mij groet.
@@ -16,6 +22,7 @@ Mijn arme, árme kind'ren! wèl
     en weende,—weende⁀om de stad, om u—om mij.
     Ha ha ha aha.
 
+>>>>>>> 3e1c69bdd1fee145968ff82098fd5fa738481a9b
     Maar niet als vrouwen weenen, ween 'k. Ik ween,
     en weer mij krachtig tegen dat, wat is;
     weet 'k de reden van uw komst, en welbekend
@@ -25,9 +32,9 @@ changing
     Naar 't Pythisch huis, tot den van wond'ren zwang'ren,
 aaaaaaaaaaaaaaaa
 alsidubu uasd asda
-    hoè ik de stad bevrijd. Te lang toeft Kreon,
-    goudenen troon van Phoibos, zond ik Kreon,
     den broeder mijner vrouw, om uit te vorschen,
+    goudenen troon van Phoibos, zond ik Kreon,
+    hoè ik de stad bevrijd. Te lang toeft Kreon,
     He Ha Ha ha,
     Sara’s line 1
     En langer ook dan d' opdracht eischt, die 'k hem gaf.
