@@ -18,7 +18,4 @@ PaulPidou
 vivek
 AdityaPadhye
 RichardTiu
-<<<<<<< HEAD
 vivek
-=======
->>>>>>> ac043f3cc6f71b65a92deaa3327a109c7d785b28
