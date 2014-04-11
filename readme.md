@@ -5,7 +5,7 @@
 ###Part 1
 
 1. Clone this repository to your local machine. `git clone url_to_repository`
-2. Edit the `cmua-students.txt` file and add your name. You can just open any text editor to edit the file, if you use Word, you will automatically fail.
+2. Edit the `cmua-students.txt` file and  add your name. You can just open any text editor to edit the file, if you use Word, you will automatically fail. ADD THE FILE TO COMMIT USING git add
 3. Commit the changes. `git commit -m "This is your commit message"`
 4. Push to the repository. (You might have to ask me for permission if you didn't add your Github username to the spreadsheet). `git push`
 5. Fix any conflicts that you may came across.
