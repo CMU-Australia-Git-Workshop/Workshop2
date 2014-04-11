@@ -1,12 +1,2 @@
 dalanmiller
-<<<<<<< HEAD
-<<<<<<< HEAD
 ZiweiShi
-=======
-=======
-iviteri
-yanliu
->>>>>>> 0361912614876cfea68e63feebdfe4246b8e59f4
-nakulgandotra
-PaulPidou
->>>>>>> d002bde7783d6142bb6e174872e98af7fc500c98
