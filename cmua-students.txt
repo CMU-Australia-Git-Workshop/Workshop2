@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dalanmiller
 ZiweiShi
 Tania Dasgupta
@@ -22,3 +23,36 @@ vivek
 AakritiBhargava
 sharingangt
 Sara Cheng
+=======
+dalanmiller
+<<<<<<< HEAD
+nakulganiki`dotra
+PaulPido
+kdsj
+helloeljlllrlkjl
+uyeahlalala
+=======
+ZiweiShi
+Tania Dasgupta
+yanliu
+nakulgandotra
+PaulPidou
+RebeccaHou
+nakulgandotra
+PaulPidou
+yanliu
+nakulgandotra
+PaulPidouiviteri
+nakulgandotra
+hanweishao
+PaulPidou
+danyang
+vivek
+AdityaPadhye
+RichardTiu
+vivek
+AakritiBhargava
+sharingangt
+ShirleyYang
+Sara Cheng
+>>>>>>> FETCH_HEAD
